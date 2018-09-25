@@ -1,4 +1,5 @@
 *Update : 25 September 2018*
+Send the OTP Tel number to a lot of targets through bug tokopedia.
 
 # For Windows
 - Install XAMPP
